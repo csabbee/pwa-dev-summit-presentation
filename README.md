@@ -15,6 +15,9 @@ user experience" - [Progressive Web Apps](https://developers.google.com/web/prog
 ## **Why you should care?!**
 * Emerging markets will bring billions of new internet users
 * These users will interact with your app on low end mobile devices with ~2G connection
+* Africa: 1 month of work = 180 MB
+* India: 17 hours of work = 500 MB
+* Hungary: 1 month of work = 12 GB
 
 ## **App Shell**
 * Design concept
